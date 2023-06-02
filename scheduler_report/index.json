@@ -1,0 +1,1478 @@
+{
+    "name": "Sandlot-Api-Automation-ReportBUILD - 8.9.0",
+    "date": 1685725101389,
+    "dateH": "6/2/2023, 4:58:21 PM",
+    "duration": 154705,
+    "durationH": "2m 35s",
+    "cwd": "/home/user_4/Development/sandlot_test_suit",
+    "outputFile": "./playwright-report/index.html",
+    "outputDir": "./playwright-report",
+    "metadata": {},
+    "system": {
+        "cpu": {
+            "color": "#117DBB",
+            "count": 8,
+            "model": "Intel(R) Xeon(R) CPU           E5506  @ 2.13GHz",
+            "speed": 2121
+        },
+        "mem": {
+            "color": "#8B12AE",
+            "total": 42146168832
+        },
+        "arch": "x64",
+        "platform": "linux",
+        "release": "5.19.0-42-generic",
+        "type": "Linux",
+        "version": "#43~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Apr 21 16:51:08 UTC 2",
+        "uptime": 119770.85,
+        "hostname": "dominaserver-HP-Z800-Workstation",
+        "pid": 367554,
+        "timestampStart": 1685725101389,
+        "ticks": [
+            {
+                "cpu": {
+                    "percent": 53.25
+                },
+                "mem": {
+                    "free": 33792237568
+                },
+                "timestamp": 1685725103396
+            },
+            {
+                "cpu": {
+                    "percent": 8.89
+                },
+                "mem": {
+                    "free": 33802395648
+                },
+                "timestamp": 1685725105399
+            },
+            {
+                "cpu": {
+                    "percent": 15.61
+                },
+                "mem": {
+                    "free": 33819762688
+                },
+                "timestamp": 1685725107402
+            },
+            {
+                "cpu": {
+                    "percent": 5.06
+                },
+                "mem": {
+                    "free": 33817485312
+                },
+                "timestamp": 1685725109403
+            },
+            {
+                "cpu": {
+                    "percent": 19.87
+                },
+                "mem": {
+                    "free": 33837350912
+                },
+                "timestamp": 1685725111404
+            },
+            {
+                "cpu": {
+                    "percent": 10.11
+                },
+                "mem": {
+                    "free": 33838952448
+                },
+                "timestamp": 1685725382791
+            },
+            {
+                "cpu": {
+                    "percent": 2.76
+                },
+                "mem": {
+                    "free": 33839308800
+                },
+                "timestamp": 1685725384794
+            },
+            {
+                "cpu": {
+                    "percent": 8.04
+                },
+                "mem": {
+                    "free": 33839226880
+                },
+                "timestamp": 1685725386797
+            },
+            {
+                "cpu": {
+                    "percent": 4.99
+                },
+                "mem": {
+                    "free": 33864450048
+                },
+                "timestamp": 1685725388799
+            },
+            {
+                "cpu": {
+                    "percent": 8.79
+                },
+                "mem": {
+                    "free": 33879564288
+                },
+                "timestamp": 1685725390802
+            },
+            {
+                "cpu": {
+                    "percent": 3.24
+                },
+                "mem": {
+                    "free": 33880502272
+                },
+                "timestamp": 1685725392806
+            },
+            {
+                "cpu": {
+                    "percent": 3.12
+                },
+                "mem": {
+                    "free": 33880514560
+                },
+                "timestamp": 1685725394809
+            },
+            {
+                "cpu": {
+                    "percent": 4.03
+                },
+                "mem": {
+                    "free": 33885310976
+                },
+                "timestamp": 1685725396810
+            },
+            {
+                "cpu": {
+                    "percent": 9.27
+                },
+                "mem": {
+                    "free": 33882542080
+                },
+                "timestamp": 1685725398814
+            },
+            {
+                "cpu": {
+                    "percent": 2.63
+                },
+                "mem": {
+                    "free": 33883070464
+                },
+                "timestamp": 1685725400817
+            },
+            {
+                "cpu": {
+                    "percent": 3
+                },
+                "mem": {
+                    "free": 33884069888
+                },
+                "timestamp": 1685725402820
+            },
+            {
+                "cpu": {
+                    "percent": 3.99
+                },
+                "mem": {
+                    "free": 33884663808
+                },
+                "timestamp": 1685725404823
+            },
+            {
+                "cpu": {
+                    "percent": 8.99
+                },
+                "mem": {
+                    "free": 33883639808
+                },
+                "timestamp": 1685725406826
+            },
+            {
+                "cpu": {
+                    "percent": 3.01
+                },
+                "mem": {
+                    "free": 33884041216
+                },
+                "timestamp": 1685725408830
+            },
+            {
+                "cpu": {
+                    "percent": 7.77
+                },
+                "mem": {
+                    "free": 33904713728
+                },
+                "timestamp": 1685725410832
+            },
+            {
+                "cpu": {
+                    "percent": 3.25
+                },
+                "mem": {
+                    "free": 33904361472
+                },
+                "timestamp": 1685725412836
+            },
+            {
+                "cpu": {
+                    "percent": 9.43
+                },
+                "mem": {
+                    "free": 33917816832
+                },
+                "timestamp": 1685725414839
+            },
+            {
+                "cpu": {
+                    "percent": 3.24
+                },
+                "mem": {
+                    "free": 33918418944
+                },
+                "timestamp": 1685725416842
+            },
+            {
+                "cpu": {
+                    "percent": 3.14
+                },
+                "mem": {
+                    "free": 33914298368
+                },
+                "timestamp": 1685725418845
+            },
+            {
+                "cpu": {
+                    "percent": 11.91
+                },
+                "mem": {
+                    "free": 33916481536
+                },
+                "timestamp": 1685726290345
+            },
+            {
+                "cpu": {
+                    "percent": 9.28
+                },
+                "mem": {
+                    "free": 33912918016
+                },
+                "timestamp": 1685726292348
+            },
+            {
+                "cpu": {
+                    "percent": 7.63
+                },
+                "mem": {
+                    "free": 33903419392
+                },
+                "timestamp": 1685726294352
+            },
+            {
+                "cpu": {
+                    "percent": 3.36
+                },
+                "mem": {
+                    "free": 33902440448
+                },
+                "timestamp": 1685726296355
+            },
+            {
+                "cpu": {
+                    "percent": 4.12
+                },
+                "mem": {
+                    "free": 33906728960
+                },
+                "timestamp": 1685726298357
+            },
+            {
+                "cpu": {
+                    "percent": 11.35
+                },
+                "mem": {
+                    "free": 33896419328
+                },
+                "timestamp": 1685726300359
+            },
+            {
+                "cpu": {
+                    "percent": 2.5
+                },
+                "mem": {
+                    "free": 33897205760
+                },
+                "timestamp": 1685726302363
+            },
+            {
+                "cpu": {
+                    "percent": 2.51
+                },
+                "mem": {
+                    "free": 33897594880
+                },
+                "timestamp": 1685726304366
+            },
+            {
+                "cpu": {
+                    "percent": 3.67
+                },
+                "mem": {
+                    "free": 33901707264
+                },
+                "timestamp": 1685726306370
+            },
+            {
+                "cpu": {
+                    "percent": 9.41
+                },
+                "mem": {
+                    "free": 33891344384
+                },
+                "timestamp": 1685726308373
+            },
+            {
+                "cpu": {
+                    "percent": 2.51
+                },
+                "mem": {
+                    "free": 33892880384
+                },
+                "timestamp": 1685726310376
+            },
+            {
+                "cpu": {
+                    "percent": 2.51
+                },
+                "mem": {
+                    "free": 33894432768
+                },
+                "timestamp": 1685726312379
+            },
+            {
+                "cpu": {
+                    "percent": 2.14
+                },
+                "mem": {
+                    "free": 33894703104
+                },
+                "timestamp": 1685726314382
+            },
+            {
+                "cpu": {
+                    "percent": 2.88
+                },
+                "mem": {
+                    "free": 33896538112
+                },
+                "timestamp": 1685726316385
+            },
+            {
+                "cpu": {
+                    "percent": 8.19
+                },
+                "mem": {
+                    "free": 33905225728
+                },
+                "timestamp": 1685726318388
+            },
+            {
+                "cpu": {
+                    "percent": 4.02
+                },
+                "mem": {
+                    "free": 33899888640
+                },
+                "timestamp": 1685726320390
+            },
+            {
+                "cpu": {
+                    "percent": 2.65
+                },
+                "mem": {
+                    "free": 33922805760
+                },
+                "timestamp": 1685726322393
+            },
+            {
+                "cpu": {
+                    "percent": 3.12
+                },
+                "mem": {
+                    "free": 33923616768
+                },
+                "timestamp": 1685726324396
+            },
+            {
+                "cpu": {
+                    "percent": 2.88
+                },
+                "mem": {
+                    "free": 33919512576
+                },
+                "timestamp": 1685726326400
+            },
+            {
+                "cpu": {
+                    "percent": 3.01
+                },
+                "mem": {
+                    "free": 33920286720
+                },
+                "timestamp": 1685726328403
+            },
+            {
+                "cpu": {
+                    "percent": 3.25
+                },
+                "mem": {
+                    "free": 33920524288
+                },
+                "timestamp": 1685726330406
+            },
+            {
+                "cpu": {
+                    "percent": 10.45
+                },
+                "mem": {
+                    "free": 33914044416
+                },
+                "timestamp": 1685726332407
+            },
+            {
+                "cpu": {
+                    "percent": 16.25
+                },
+                "mem": {
+                    "free": 33889906688
+                },
+                "timestamp": 1685812934002
+            },
+            {
+                "cpu": {
+                    "percent": 3.11
+                },
+                "mem": {
+                    "free": 33892663296
+                },
+                "timestamp": 1685812936004
+            },
+            {
+                "cpu": {
+                    "percent": 5.03
+                },
+                "mem": {
+                    "free": 33903849472
+                },
+                "timestamp": 1685812938008
+            },
+            {
+                "cpu": {
+                    "percent": 2.76
+                },
+                "mem": {
+                    "free": 33902403584
+                },
+                "timestamp": 1685812940011
+            },
+            {
+                "cpu": {
+                    "percent": 8.58
+                },
+                "mem": {
+                    "free": 33898926080
+                },
+                "timestamp": 1685812942014
+            },
+            {
+                "cpu": {
+                    "percent": 5.61
+                },
+                "mem": {
+                    "free": 33903927296
+                },
+                "timestamp": 1685725205580
+            },
+            {
+                "cpu": {
+                    "percent": 2.76
+                },
+                "mem": {
+                    "free": 33902895104
+                },
+                "timestamp": 1685725207583
+            },
+            {
+                "cpu": {
+                    "percent": 2.64
+                },
+                "mem": {
+                    "free": 33899532288
+                },
+                "timestamp": 1685725209586
+            },
+            {
+                "cpu": {
+                    "percent": 3.73
+                },
+                "mem": {
+                    "free": 33897697280
+                },
+                "timestamp": 1685725211590
+            },
+            {
+                "cpu": {
+                    "percent": 3.13
+                },
+                "mem": {
+                    "free": 33898795008
+                },
+                "timestamp": 1685725213592
+            },
+            {
+                "cpu": {
+                    "percent": 3.4
+                },
+                "mem": {
+                    "free": 33899061248
+                },
+                "timestamp": 1685725215596
+            },
+            {
+                "cpu": {
+                    "percent": 3.38
+                },
+                "mem": {
+                    "free": 33891622912
+                },
+                "timestamp": 1685725217599
+            },
+            {
+                "cpu": {
+                    "percent": 4.22
+                },
+                "mem": {
+                    "free": 33890299904
+                },
+                "timestamp": 1685725219602
+            },
+            {
+                "cpu": {
+                    "percent": 2.52
+                },
+                "mem": {
+                    "free": 33889157120
+                },
+                "timestamp": 1685725221606
+            },
+            {
+                "cpu": {
+                    "percent": 2.53
+                },
+                "mem": {
+                    "free": 33889681408
+                },
+                "timestamp": 1685725223609
+            },
+            {
+                "cpu": {
+                    "percent": 3.36
+                },
+                "mem": {
+                    "free": 33889771520
+                },
+                "timestamp": 1685725225613
+            },
+            {
+                "cpu": {
+                    "percent": 3.13
+                },
+                "mem": {
+                    "free": 33887297536
+                },
+                "timestamp": 1685725227615
+            },
+            {
+                "cpu": {
+                    "percent": 3.01
+                },
+                "mem": {
+                    "free": 33886007296
+                },
+                "timestamp": 1685725229618
+            },
+            {
+                "cpu": {
+                    "percent": 3.03
+                },
+                "mem": {
+                    "free": 33893732352
+                },
+                "timestamp": 1685725231621
+            },
+            {
+                "cpu": {
+                    "percent": 2.75
+                },
+                "mem": {
+                    "free": 33894002688
+                },
+                "timestamp": 1685725233625
+            },
+            {
+                "cpu": {
+                    "percent": 2.88
+                },
+                "mem": {
+                    "free": 33894522880
+                },
+                "timestamp": 1685725235628
+            },
+            {
+                "cpu": {
+                    "percent": 2.74
+                },
+                "mem": {
+                    "free": 33895100416
+                },
+                "timestamp": 1685725237632
+            },
+            {
+                "cpu": {
+                    "percent": 2.51
+                },
+                "mem": {
+                    "free": 33892311040
+                },
+                "timestamp": 1685725239635
+            },
+            {
+                "cpu": {
+                    "percent": 3.74
+                },
+                "mem": {
+                    "free": 33892384768
+                },
+                "timestamp": 1685725241638
+            },
+            {
+                "cpu": {
+                    "percent": 4.61
+                },
+                "mem": {
+                    "free": 33893974016
+                },
+                "timestamp": 1685725243641
+            },
+            {
+                "cpu": {
+                    "percent": 2.39
+                },
+                "mem": {
+                    "free": 33865330688
+                },
+                "timestamp": 1685725245645
+            },
+            {
+                "cpu": {
+                    "percent": 3.01
+                },
+                "mem": {
+                    "free": 33864990720
+                },
+                "timestamp": 1685725247648
+            },
+            {
+                "cpu": {
+                    "percent": 2.52
+                },
+                "mem": {
+                    "free": 33879998464
+                },
+                "timestamp": 1685725249652
+            },
+            {
+                "cpu": {
+                    "percent": 2.27
+                },
+                "mem": {
+                    "free": 33892790272
+                },
+                "timestamp": 1685725251655
+            },
+            {
+                "cpu": {
+                    "percent": 3.01
+                },
+                "mem": {
+                    "free": 33893052416
+                },
+                "timestamp": 1685725253658
+            },
+            {
+                "cpu": {
+                    "percent": 7.95
+                },
+                "mem": {
+                    "free": 33930194944
+                },
+                "timestamp": 1685725255661
+            },
+            {
+                "cpu": {
+                    "percent": 5.01
+                },
+                "mem": {
+                    "free": 33930194944
+                },
+                "timestamp": 1685725256086
+            }
+        ],
+        "workers": 1,
+        "jobs": [
+            {
+                "caseId": "47340f31b9ea5bf204df",
+                "workerIndex": 0,
+                "timestamp": 1685725103012,
+                "duration": 317158
+            },
+            {
+                "caseId": "5a0a922f88b1eef2c323",
+                "workerIndex": 0,
+                "timestamp": 1685725420170,
+                "duration": 911905
+            },
+            {
+                "caseId": "75c6c97dff7a88a9c7ee",
+                "workerIndex": 0,
+                "timestamp": 1685726332075,
+                "duration": -1077034
+            }
+        ],
+        "cwd": "/home/user_4/Development/sandlot_test_suit",
+        "configFile": "undefined",
+        "playwright": "1.25.1",
+        "testDir": "tests",
+        "outputFile": "playwright-report/index.html",
+        "outputDir": "playwright-report",
+        "timestampEnd": 1685725256094
+    },
+    "artifacts": [],
+    "trends": [],
+    "columns": [
+        {
+            "id": "caseType",
+            "name": "",
+            "width": 36,
+            "sortable": false,
+            "align": "center",
+            "formatter": "iconCaseType",
+            "detailed": false
+        },
+        {
+            "id": "title",
+            "name": "Title",
+            "searchable": true,
+            "width": 300,
+            "maxWidth": 1230,
+            "detailed": false
+        },
+        {
+            "id": "type",
+            "name": "Type",
+            "width": 50,
+            "sortable": false,
+            "align": "center",
+            "formatter": "iconType",
+            "detailed": false
+        },
+        {
+            "id": "duration",
+            "name": "Duration",
+            "align": "right",
+            "sortAsc": false,
+            "formatter": "duration",
+            "detailed": false
+        },
+        {
+            "id": "errors",
+            "name": "Errors",
+            "width": 60,
+            "align": "center",
+            "comparer": "errors",
+            "formatter": "errors",
+            "detailed": false
+        },
+        {
+            "id": "logs",
+            "name": "Logs",
+            "width": 60,
+            "align": "center",
+            "comparer": "logs",
+            "formatter": "logs",
+            "detailed": false
+        },
+        {
+            "id": "annotations",
+            "name": "Annotations",
+            "width": 100,
+            "markdown": true,
+            "searchable": true,
+            "comparer": "annotations",
+            "formatter": "annotations",
+            "detailed": false
+        },
+        {
+            "id": "attachments",
+            "name": "Attachments",
+            "width": 100,
+            "align": "center",
+            "formatter": "attachments",
+            "detailed": false
+        },
+        {
+            "id": "status",
+            "name": "Status",
+            "align": "center",
+            "detailed": false
+        },
+        {
+            "id": "expectedStatus",
+            "name": "Expected",
+            "align": "center",
+            "detailed": false
+        },
+        {
+            "id": "outcome",
+            "name": "Outcome",
+            "align": "center",
+            "width": 85,
+            "detailed": false
+        },
+        {
+            "id": "retry",
+            "name": "Retry",
+            "align": "center",
+            "width": 50,
+            "detailed": false
+        },
+        {
+            "id": "location",
+            "name": "Location",
+            "classMap": "mcr-location",
+            "width": 200,
+            "detailed": false
+        }
+    ],
+    "rows": [
+        {
+            "id": "1uzlgezvpvoq5a4gjb9f",
+            "title": "chromium",
+            "type": "suite",
+            "suiteType": "project",
+            "caseNum": 3,
+            "subs": [
+                {
+                    "id": "4ac591adab7a57470c3a",
+                    "title": "009-scheduler.spec.js",
+                    "type": "suite",
+                    "suiteType": "file",
+                    "caseNum": 3,
+                    "subs": [
+                        {
+                            "id": "ok7p73its3f8ti6ut7u7",
+                            "title": "Fistbumps",
+                            "type": "suite",
+                            "suiteType": "describe",
+                            "caseNum": 3,
+                            "subs": [
+                                {
+                                    "id": "47340f31b9ea5bf204df",
+                                    "title": "Verifying [User Scheduler]: 1st Recurrence (repeat-daily) with ending date and without no. of occurrences",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "tests/009-scheduler.spec.js:28:2",
+                                    "logs": [
+                                        "[Fistbump] Name: 0aa5ab93-36ba-4465-8060-4b4aa9c655f5 & ID: Fistbump (repeat-daily-ending) # 2487\n",
+                                        "[Fistbump] Actual start_time: 2023-06-02T17:03:29.000+00:00\n",
+                                        "[Fistbump] Expected start_time: 2023-06-02T17:03:29.000+00:00\n",
+                                        "[Fistbump] Initial Status: \"created\"\n",
+                                        "[Swtich Time] Start Fistbump:\n",
+                                        "Script output: و 17:03:01 UTC ت 02 جون 2023\n\n",
+                                        "System time changed successfully!\n",
+                                        "[Fistbump] Status should change from \"created\" to \"live\": \"live\"\n"
+                                    ],
+                                    "timestamps": [
+                                        1685725103012,
+                                        1685725420170
+                                    ],
+                                    "duration": 317158,
+                                    "timeout": 300000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 20,
+                                    "stepFailed": 0,
+                                    "stepSubs": false,
+                                    "subs": [
+                                        {
+                                            "id": "b3p8gnnztxx5nd4o18dw",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 14,
+                                            "location": ""
+                                        },
+                                        {
+                                            "id": "zkj73dbngc72nc3gcpvu",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 1,
+                                            "location": "tests/009-scheduler.spec.js:36:39"
+                                        },
+                                        {
+                                            "id": "ocrp74z0pez6ivial4br",
+                                            "title": "apiRequestContext.post(/meetups)",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 1245,
+                                            "location": "utils/sandlot_functions.ts:41:44"
+                                        },
+                                        {
+                                            "id": "qyl2brrtzg5g31m8x0qe",
+                                            "title": "expect.toBe",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:48:39"
+                                        },
+                                        {
+                                            "id": "dervuthdk1mwwchz9gu3",
+                                            "title": "expect.toBeTruthy",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 1,
+                                            "location": "utils/sandlot_functions.ts:49:35"
+                                        },
+                                        {
+                                            "id": "2ay6p5ryv2ma7rfggx0d",
+                                            "title": "apiResponse.json",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 3,
+                                            "location": "utils/sandlot_functions.ts:50:40"
+                                        },
+                                        {
+                                            "id": "4jgs7ghjbayobbjih2va",
+                                            "title": "expect.not.toBeNull",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:47:34"
+                                        },
+                                        {
+                                            "id": "ih9a13w0tjesw8icn9nu",
+                                            "title": "expect.not.toBeNull",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:48:37"
+                                        },
+                                        {
+                                            "id": "77dk3nclgkui2xlokl92",
+                                            "title": "apiRequestContext.get(/meetups/0aa5ab93-36ba-4465-8060-4b4aa9c655f5)",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 48,
+                                            "location": "utils/sandlot_functions.ts:25:44"
+                                        },
+                                        {
+                                            "id": "5ghhw66qlztfhwrg5jcg",
+                                            "title": "expect.toBe",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:26:39"
+                                        },
+                                        {
+                                            "id": "b1k4677hb4jjia3mav4h",
+                                            "title": "expect.toBeTruthy",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:27:35"
+                                        },
+                                        {
+                                            "id": "ngiojrko6t3t61z9cktv",
+                                            "title": "apiResponse.json",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:28:40"
+                                        },
+                                        {
+                                            "id": "rg17iw65feonpcqr95uj",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:59:37"
+                                        },
+                                        {
+                                            "id": "g2t9jxrs70f439mzeat0",
+                                            "title": "expect.toEqual",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 1,
+                                            "location": "tests/009-scheduler.spec.js:60:45"
+                                        },
+                                        {
+                                            "id": "9xquk1fo0wdt3nhz3tzy",
+                                            "title": "apiRequestContext.get(/meetups/0aa5ab93-36ba-4465-8060-4b4aa9c655f5)",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 14,
+                                            "location": "utils/sandlot_functions.ts:25:44"
+                                        },
+                                        {
+                                            "id": "1qk4edha4wmx2vjc4hpn",
+                                            "title": "expect.toBe",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:26:39"
+                                        },
+                                        {
+                                            "id": "mgkddmocdm25iqxe6tx5",
+                                            "title": "expect.toBeTruthy",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:27:35"
+                                        },
+                                        {
+                                            "id": "xuprnmryglnfn84tmw7y",
+                                            "title": "apiResponse.json",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 2,
+                                            "location": "utils/sandlot_functions.ts:28:40"
+                                        },
+                                        {
+                                            "id": "xgfudheebgyebzgt7r70",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:72:37"
+                                        },
+                                        {
+                                            "id": "528pn1rki5g50xhrmzlk",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 3,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "5a0a922f88b1eef2c323",
+                                    "title": "Verifying [User Scheduler]: 1st Recurrence (repeat-daily) Fistbump status if changed from 'Live' to 'Recurring'",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "tests/009-scheduler.spec.js:77:2",
+                                    "logs": [
+                                        "[Swtich Time] Switched To Finish Fistbump:\n",
+                                        "Script output: و 17:18:10 UTC ت 02 جون 2023\n\n",
+                                        "System time changed successfully!\n",
+                                        "[Fistbump] Status Should Change from \"Live\" to \"Recurring\": \"recurring\"\n",
+                                        "[Fistbump] Verify \"Nextrun\" attribute should be updated to next day / next run time\n",
+                                        "[Fistbump] Expected NextRun: 2023-06-03T17:03:29.000+00:00\n",
+                                        "[Fistbump] Actual NextRun: 2023-06-03T17:03:29.000+00:00\n",
+                                        "[Fistbump] Status: \"recurring\"\n"
+                                    ],
+                                    "timestamps": [
+                                        1685725420170,
+                                        1685726332075
+                                    ],
+                                    "duration": 911905,
+                                    "timeout": 300000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 16,
+                                    "stepFailed": 0,
+                                    "stepSubs": false,
+                                    "subs": [
+                                        {
+                                            "id": "s0zb07bwd2e3sb541rsy",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 2,
+                                            "location": ""
+                                        },
+                                        {
+                                            "id": "uy44uq2esuv4cz6x7qvm",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:85:39"
+                                        },
+                                        {
+                                            "id": "f2ojs9ah16mpy2lzz29k",
+                                            "title": "apiRequestContext.get(/meetups/0aa5ab93-36ba-4465-8060-4b4aa9c655f5)",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 14,
+                                            "location": "utils/sandlot_functions.ts:25:44"
+                                        },
+                                        {
+                                            "id": "u03r2p5142h6rfbg7geq",
+                                            "title": "expect.toBe",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 1,
+                                            "location": "utils/sandlot_functions.ts:26:39"
+                                        },
+                                        {
+                                            "id": "omrnls3ff1skr5sl8mp6",
+                                            "title": "expect.toBeTruthy",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:27:35"
+                                        },
+                                        {
+                                            "id": "r3p7tpvhde61o18yqxoj",
+                                            "title": "apiResponse.json",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:28:40"
+                                        },
+                                        {
+                                            "id": "aay2p8tyxcg661cj5w4e",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:92:37"
+                                        },
+                                        {
+                                            "id": "45csjaek7n1hj89lroi9",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:99:39"
+                                        },
+                                        {
+                                            "id": "nlqd93662mg2x9wceupo",
+                                            "title": "apiRequestContext.get(/meetups/0aa5ab93-36ba-4465-8060-4b4aa9c655f5)",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 13,
+                                            "location": "utils/sandlot_functions.ts:25:44"
+                                        },
+                                        {
+                                            "id": "elooiahwfxt5oy0ej3qi",
+                                            "title": "expect.toBe",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:26:39"
+                                        },
+                                        {
+                                            "id": "j598lbjadhbjch8gvrxf",
+                                            "title": "expect.toBeTruthy",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:27:35"
+                                        },
+                                        {
+                                            "id": "zl9g87abo6f81aph9swt",
+                                            "title": "apiResponse.json",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 2,
+                                            "location": "utils/sandlot_functions.ts:28:40"
+                                        },
+                                        {
+                                            "id": "9xfcxo48fy2jyjutkag6",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 1,
+                                            "location": "tests/009-scheduler.spec.js:105:37"
+                                        },
+                                        {
+                                            "id": "lduwt6bfnl4auhkz02vt",
+                                            "title": "expect.toEqual",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:106:45"
+                                        },
+                                        {
+                                            "id": "2kfcgfzmf2v1ig3uqpd5",
+                                            "title": "expect.toBeNull",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:114:29"
+                                        },
+                                        {
+                                            "id": "e0cw8b2twph3wd4049sm",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 2,
+                                            "location": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "75c6c97dff7a88a9c7ee",
+                                    "title": "Verifying [User Scheduler]: 2nd Recurrence (repeat-daily) with ending date and without no. of occurrences",
+                                    "type": "case",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
+                                    "expectedStatus": "passed",
+                                    "location": "tests/009-scheduler.spec.js:118:2",
+                                    "logs": [
+                                        "[Switch Time] Switching system time to start Fistbump:\n",
+                                        "Script output: و 17:22:12 UTC ت 03 جون 2023\n\n",
+                                        "System time changed successfully!\n",
+                                        "[Fistbump-2nd Recurrance] Verify status should changed from 'Recurring to 'Live' [FAILED]\n",
+                                        "[Fistbump] Actual start_time: 2023-06-04T17:03:29.000+00:00\n",
+                                        "[Fistbump] Expected start_time: 2023-06-02T17:03:29.000+00:00\n",
+                                        "[Fistbump-2nd Recurrance] Verify \"Nextrun\" attribute should be updated to next day / next run time\n",
+                                        "[Fistbump-2nd Recurrance] Expected NextRun: 2023-06-04T17:03:29.000+00:00\n",
+                                        "[Fistbump-2nd Recurrance] Actual NextRun: 2023-06-04T17:03:29.000+00:00\n",
+                                        "[Fistbump-2nd Recurrance] Status: \"recurring\"\n"
+                                    ],
+                                    "timestamps": [
+                                        1685726332075,
+                                        1685725255041
+                                    ],
+                                    "duration": -1077034,
+                                    "timeout": 300000,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 9,
+                                    "stepFailed": 0,
+                                    "stepSubs": false,
+                                    "subs": [
+                                        {
+                                            "id": "19i18gl3lsd7vt04izl6",
+                                            "title": "Before Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 1,
+                                            "location": ""
+                                        },
+                                        {
+                                            "id": "6y0luro394p2kvt5g9b1",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:129:39"
+                                        },
+                                        {
+                                            "id": "69s1qg0b6ky8c5rh004g",
+                                            "title": "apiRequestContext.get(/meetups/0aa5ab93-36ba-4465-8060-4b4aa9c655f5)",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 15,
+                                            "location": "utils/sandlot_functions.ts:25:44"
+                                        },
+                                        {
+                                            "id": "edhrtn849moi1x5kyd57",
+                                            "title": "expect.toBe",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:26:39"
+                                        },
+                                        {
+                                            "id": "46sqcqkow7nh0ymvrmok",
+                                            "title": "expect.toBeTruthy",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "utils/sandlot_functions.ts:27:35"
+                                        },
+                                        {
+                                            "id": "wcphom88kc95yj8cewla",
+                                            "title": "apiResponse.json",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 1,
+                                            "location": "utils/sandlot_functions.ts:28:40"
+                                        },
+                                        {
+                                            "id": "wpfrlxvu89t3j1euaw4e",
+                                            "title": "expect.toMatch",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:136:37"
+                                        },
+                                        {
+                                            "id": "cz9a8uaqwtym7o8u2rn6",
+                                            "title": "expect.toEqual",
+                                            "type": "step",
+                                            "stepType": "expect",
+                                            "duration": 0,
+                                            "location": "tests/009-scheduler.spec.js:138:45"
+                                        },
+                                        {
+                                            "id": "casp224lkuhvs4epf88l",
+                                            "title": "After Hooks",
+                                            "type": "step",
+                                            "stepType": "hook",
+                                            "duration": 2,
+                                            "location": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "location": "tests/009-scheduler.spec.js:27:15"
+                        }
+                    ],
+                    "location": "tests/009-scheduler.spec.js:0:0"
+                }
+            ]
+        }
+    ],
+    "formatters": {},
+    "suiteTypes": [
+        "project",
+        "file",
+        "describe",
+        "shard"
+    ],
+    "caseTypes": [
+        "passed",
+        "flaky",
+        "skipped",
+        "failed"
+    ],
+    "tags": {},
+    "summary": {
+        "tests": {
+            "name": "Tests",
+            "value": 3,
+            "nav": true,
+            "id": "tests"
+        },
+        "passed": {
+            "name": "Passed",
+            "value": 3,
+            "color": "green",
+            "nav": true,
+            "id": "passed",
+            "percent": "100.0%"
+        },
+        "flaky": {
+            "name": "Flaky",
+            "value": 0,
+            "color": "orange",
+            "nav": true,
+            "id": "flaky",
+            "percent": "0.0%"
+        },
+        "skipped": {
+            "name": "Skipped",
+            "value": 0,
+            "color": "gray",
+            "nav": true,
+            "id": "skipped",
+            "percent": "0.0%"
+        },
+        "failed": {
+            "name": "Failed",
+            "value": 0,
+            "color": "#d00",
+            "nav": true,
+            "id": "failed",
+            "percent": "0.0%"
+        },
+        "steps": {
+            "name": "Steps",
+            "value": 45,
+            "id": "steps"
+        },
+        "suites": {
+            "name": "Suites",
+            "value": 1,
+            "id": "suites"
+        },
+        "projects": {
+            "name": "Projects",
+            "description": "Suite type is project",
+            "value": 1,
+            "id": "projects"
+        },
+        "files": {
+            "name": "Files",
+            "description": "Suite type is file",
+            "value": 1,
+            "id": "files"
+        },
+        "describes": {
+            "name": "Describes",
+            "description": "Suite type is describe",
+            "value": 1,
+            "id": "describes"
+        },
+        "shards": {
+            "name": "Shards",
+            "description": "Suite type is shard (only in shading mode)",
+            "value": 0,
+            "id": "shards"
+        },
+        "retries": {
+            "name": "Retries",
+            "value": 0,
+            "id": "retries"
+        },
+        "errors": {
+            "name": "Errors",
+            "value": 0,
+            "id": "errors"
+        },
+        "logs": {
+            "name": "Logs",
+            "value": 26,
+            "id": "logs"
+        },
+        "attachments": {
+            "name": "Attachments",
+            "value": 0,
+            "id": "attachments"
+        }
+    },
+    "pieChart": {
+        "ns": "mcr-pie",
+        "width": 360,
+        "height": 150,
+        "margin": 10,
+        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"M75,75 L75,10 A65,65 0 1 1 75,140 A65,65 0 1 1 75,10 z\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">3</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">100.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g></g></svg>"
+    }
+}
